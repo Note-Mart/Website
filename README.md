@@ -33,7 +33,7 @@ NoteMart 是一個現代化的筆記交易平台，致力於促進知識共享�
 
 1. 克隆專案
 ```bash
-git clone https://github.com/your-username/note-mart.git
+git clone https://github.com/Note-Mart/Website.git
 cd note-mart
 ```
 
